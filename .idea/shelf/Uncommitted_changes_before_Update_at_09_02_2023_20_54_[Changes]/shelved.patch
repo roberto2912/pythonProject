@@ -1,0 +1,15 @@
+Index: test.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print('Esto es un cambio que quiero hacerzxv')
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/test.py b/test.py
+--- a/test.py	(revision 3395bb5ecf89fe1d44cccc4e2e31433011f4d348)
++++ b/test.py	(date 1675968777968)
+@@ -1,1 +1,1 @@
+-print('Esto es un cambio que quiero hacerzxv')
+\ No newline at end of file
++print('Esto es la prueba irrefutable2zxcv')
+\ No newline at end of file
